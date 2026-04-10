@@ -2,6 +2,12 @@ pandas
 numpy
 scikit-learn
 streamlit
+<<<<<<< HEAD
 vaderSentiment
 sentence-transformers
 altair
+=======
+vader-sentiment
+sentence-transformers
+altair
+>>>>>>> 64a4d16fc54d247d70d477086b5e9cc2bab7dc29

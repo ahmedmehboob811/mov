@@ -6,7 +6,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.cluster import KMeans
 from sklearn.decomposition import TruncatedSVD
-from vader_sentiment.vader_sentiment import SentimentIntensityAnalyzer
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 # ─────────────────────────────────────────────────────────────
 st.set_page_config(page_title="🎬 Movie Recommender AI", page_icon="🎬",
